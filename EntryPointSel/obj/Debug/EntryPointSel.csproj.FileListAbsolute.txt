@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\EntryPointSel.exe.config
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\EntryPointSel.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\EntryPointSel.pdb
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\WebDriver.Support.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\WebDriver.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\bin\Debug\WebDriver.Support.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\obj\Debug\EntryPointSel.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\obj\Debug\EntryPointSel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\obj\Debug\EntryPoi.E5FBAFDD.Up2Date
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\obj\Debug\EntryPointSel.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\EntryPointSel\obj\Debug\EntryPointSel.pdb

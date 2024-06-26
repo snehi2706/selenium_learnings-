@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\bin\Debug\WebDriver.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\obj\Debug\CheckBox.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\obj\Debug\CheckBox.csproj.Up2Date
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\CheckBox\obj\Debug\CheckBox.pdb

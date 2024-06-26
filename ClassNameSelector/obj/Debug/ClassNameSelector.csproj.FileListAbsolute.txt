@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\ClassNameSelector.exe.config
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\ClassNameSelector.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\ClassNameSelector.pdb
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\bin\Debug\WebDriver.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\obj\Debug\ClassNameSelector.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\obj\Debug\ClassNameSelector.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\obj\Debug\ClassNam.7EDFCE51.Up2Date
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\obj\Debug\ClassNameSelector.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\ClassNameSelector\obj\Debug\ClassNameSelector.pdb

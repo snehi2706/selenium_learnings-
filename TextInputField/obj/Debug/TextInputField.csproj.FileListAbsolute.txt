@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\TextInputField.exe.config
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\TextInputField.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\TextInputField.pdb
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\bin\Debug\WebDriver.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\obj\Debug\TextInputField.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\obj\Debug\TextInputField.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\obj\Debug\TextInpu.78C1D1CD.Up2Date
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\obj\Debug\TextInputField.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\TextInputField\obj\Debug\TextInputField.pdb

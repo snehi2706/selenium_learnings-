@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\DropdownMenu.exe.config
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\DropdownMenu.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\DropdownMenu.pdb
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\WebDriver.dll
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\bin\Debug\WebDriver.xml
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\obj\Debug\DropdownMenu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\obj\Debug\DropdownMenu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\obj\Debug\Dropdown.A862B951.Up2Date
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\obj\Debug\DropdownMenu.exe
+C:\Users\Lenovo\source\repos\Selenium\EntryPointSel\DropdownMenu\obj\Debug\DropdownMenu.pdb
